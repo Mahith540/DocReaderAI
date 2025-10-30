@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+.venv/
+env/
+
+# Chroma database
+chroma/
+
+# OS junk
+.DS_Store
+
+# IDE / editor stuff
+.vscode/
+.idea/
+
