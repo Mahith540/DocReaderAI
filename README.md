@@ -29,9 +29,10 @@ python query_database.py
 
 
 Example Queries
-How much total money does a player start with in Monopoly?
-How many points is the longest train in Ticket to Ride?
-
+What are cutaneous receptors and what do they do?”
+How much money does each player start with in Monopoly?
+“Explain the function of nociceptors in the skin.”
+“What is the role of muscle spindles in proprioception?”
 📘 Author
 
 Built with ❤️ by Mahith Bandaru
